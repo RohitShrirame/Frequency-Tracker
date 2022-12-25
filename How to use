@@ -1,4 +1,5 @@
 Run the file Mapclassuse in an ide.
 Remember both files should be in same folder
 As we have included MapClass_1.h as header file in Mapclassuse
+MapClass_1.h is a custom header file it do not exist in standard template library( STL )
 MapClass_1.h is the file the where the main code lies 
