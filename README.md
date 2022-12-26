@@ -1,4 +1,3 @@
 # Frequency-Tracker
-Frequency tracker is a custom designed Data Structure that can be used to keep an account of frequency( int ) of words( strings ) present in a given paragraph.
-
+Frequency tracker is a desktop app that can be used to keep an account of the frequency( int ) of words( string ) present in a given paragraph.
 
